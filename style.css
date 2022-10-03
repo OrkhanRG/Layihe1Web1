@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/*DESKTOP*/
+.container {
+    width: 1440px;
+    height: 6585px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+/*Tablet*/
+
+@media (min-width: 992px) and (max-width: 1279px) {
+    .container {
+        width: 834px;
+        height: 3800px;
+        box-sizing: border-box;
+        margin: 0 auto;
+    }
+
+}
+
+
+
+
+
+
+
+
+/*Mobile*/
+
+@media (min-width: 320px) and (max-width: 991px) {
+    .container {
+        width: 375px;
+        height: 4524px;
+        box-sizing: border-box;
+        margin: 0 auto;
+    }
+}
