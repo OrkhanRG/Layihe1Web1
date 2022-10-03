@@ -7,6 +7,84 @@
     height: 6585px;
     margin: 0 auto;
     box-sizing: border-box;
+    font-family: Roboto Slab;
+}
+
+h1{
+    position: absolute;
+    width: 987px;
+    height: 93px;
+    left: 122px;
+    top: 91px;
+    
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    /* or 56px */
+    
+    
+    color: #000000;
+    
+
+}
+.metn{
+    position: absolute;
+    width: 700px;
+    height: 203px;
+    left: 45px;
+    top: 40px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    /* or 30px */
+    
+    
+    color: #000000;
+    
+}
+.nicat-bir{
+position: absolute;
+width: 1440px;
+height: 780px;
+left: -1px;
+top: 4625px;
+
+background: #EFEFEF;
+}
+.nicat-iki{
+    position: absolute;
+    width: 791px;
+    height: 451px;
+    left: 126px;
+    top: 218px;
+    
+    background: #efefef;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+#person{
+    position: absolute;
+    width: 190px;
+    height: 169px;
+    left: 26px;
+    top: 253px;
+}
+h2{
+    position: absolute;
+    left: 246px;
+    top: 293px;
+}
+#fb{
+    position: absolute;
+width: 32px;
+height: 31px;
+left: 246px;
+top: 352px;
 }
 
 
@@ -24,9 +102,97 @@
         box-sizing: border-box;
         margin: 0 auto;
     }
+    .nicat-bir{
+        position: absolute;
+        width: 834px;
+        height: 451.75px;
+        left: 0px;
+        top: 2671px;
+        
+        background: #EFEFEF;
+    }
+    h1{
+        position: absolute;
+        width: 571.64px;
+        height: 53.86px;
+        left: 70.66px;
+        top: 52.7px;
+        
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 101.38%;
+        /* or 32px */
+        
+        
+        color: #000000;
+    }
+    .nicat-iki{
+        /* Rectangle 21 */
 
+
+position: absolute;
+width: 458.12px;
+height: 261.2px;
+left: 72.97px;
+top: 126.26px;
+
+background: #FFFFFF;
+box-shadow: 0.579167px 0.579167px 11.5833px rgba(0, 0, 0, 0.25);
+border-radius: 17.375px;
+    }
+    .metn{
+position: absolute;
+width: 405.42px;
+height: 117.57px;
+left: 26.06px;
+top: 23.17px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+/* or 18px */
+
+
+color: #000000;
+
+    }
+    #person{
+        position: absolute;
+width: 110.04px;
+height: 97.88px;
+left: 15.06px;
+top: 146.53px;
+
+    }
+h2{
+    position: absolute;
+width: 204.45px;
+height: 34.17px;
+left: 142.48px;
+top: 169.7px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 101.38%;
+/* or 17px */
+
+
+color: #000000;
 }
-
+#fb{
+    position: absolute;
+    width: 18.53px;
+    height: 17.95px;
+    left: 142.48px;
+    top: 203.87px;
+}
+}
 
 
 
@@ -43,4 +209,90 @@
         box-sizing: border-box;
         margin: 0 auto;
     }
+    .nicat-bir{
+        position: absolute;
+width: 376px;
+height: 423px;
+left: -1px;
+top: 3487px;
+
+background: #EFEFEF;
+    }
+    h1{
+        position: absolute;
+width: 257px;
+height: 69px;
+left: 35px;
+top: 42px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 101.38%;
+/* or 26px */
+
+
+color: #000000;}
+.nicat-iki{
+    position: absolute;
+width: 308px;
+height: 248px;
+left: 35px;
+top: 122px;
+
+background: #FFFFFF;
+box-shadow: 0.465972px 0.465972px 9.31944px rgba(0, 0, 0, 0.25);
+border-radius: 13.9792px;
 }
+.metn{
+    position: absolute;
+width: 266px;
+height: 111.01px;
+left: 21px;
+top: 18.47px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 150%;
+/* or 15px */
+
+
+color: #000000;
+}
+#person{
+    position: absolute;
+width: 80px;
+height: 84px;
+left: 21px;
+top: 151px;
+
+}
+#fb{
+    position: absolute;
+width: 14.91px;
+height: 17.2px;
+left: 114.63px;
+top: 201.26px;
+}
+h2{
+    position: absolute;
+width: 164.49px;
+height: 32.73px;
+left: 114.63px;
+top: 168.54px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 101.38%;
+/* or 14px */
+
+
+color: #000000;
+}
+}
+
