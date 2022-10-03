@@ -8,7 +8,150 @@
     margin: 0 auto;
     box-sizing: border-box;
 }
+.azer-bas1{
+    position: absolute;
+width: 667px;
+height: 93px;
+left: 121px;
+top: 2000px;
 
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 101.38%;
+color: #000000;
+}
+.azer-bmetn1{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 122px;
+top: 2182px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+
+
+color: #1E4681;
+
+}
+.azer-pmetn1{
+    position: absolute;
+width: 223px;
+height: 39px;
+left: 122px;
+top: 2222px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+
+color: #000000;
+
+
+}
+.azer-bmetn2{
+    position: absolute;
+width: 214px;
+height: 39px;
+left: 467px;
+top: 2182px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+
+color: #1E4681;
+
+}
+.azer-pmetn2{
+    position: absolute;
+width: 271px;
+height: 109px;
+left: 467px;
+top: 2222px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+
+color: #000000;
+
+}
+.azer-bmetn3{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 851px;
+top: 2182px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+
+color: #1E4681;
+
+}
+.azer-pmetn3{
+    position: absolute;
+width: 245px;
+height: 39px;
+left: 851px;
+top: 2222px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+
+color: #000000;
+
+}
+.azer-bas2{
+    position: absolute;
+    width: 667px;
+    height: 93px;
+    left: 121px;
+    top: 2510px;
+    
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;  
+    
+    color: #000000;
+    
+}
+.azer-list{
+    position: absolute;
+    width: 662px;
+    height: 374px;
+    left: 110px;
+    top: 2624px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;  
+    
+    color: #000000;
+    
+}
 
 .image1 {
     position: absolute;
@@ -363,6 +506,159 @@ h1 {
     }
     
     }
+    .azer-bas1{
+        position: absolute;
+        width: 386.3px;
+        height: 53.86px;
+        left: 70.08px;
+        top: 1168.17px;
+        
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 101.38%;
+
+        color: #000000;
+        
+    }
+    .azer-bmetn1{
+        position: absolute;
+        width: 86.88px;
+        height: 22.59px;
+        left: 70.66px;
+        top: 1273.58px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 130%;
+        
+        color: #1E4681;
+        
+    
+    }
+    .azer-pmetn1{
+        position: absolute;
+width: 153px;
+height: 22px;
+left: 71px;
+top: 1297px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 130%;
+
+
+color: #000000;
+    }
+    .azer-bmetn2{
+        position: absolute;
+        width: 123.94px;
+        height: 22.59px;
+        left: 270.47px;
+        top: 1273.58px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 130%;
+        
+        color: #1E4681;
+        
+    
+    }
+    .azer-pmetn2{
+        position: absolute;
+        width: 172px;
+        height: 63px;
+        left: 270px;
+        top: 1297px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 130%;
+        
+        color: #000000;
+    
+    }
+    .azer-bmetn3{
+        position: absolute;
+        width: 86.88px;
+        height: 22.59px;
+        left: 492.87px;
+        top: 1273.58px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 130%;  
+        
+        color: #1E4681;
+        
+    
+    }
+    .azer-pmetn3{
+        position: absolute;
+        width: 141.9px;
+        height: 22.59px;
+        left: 492.87px;
+        top: 1296.75px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 130%;
+        
+        color: #000000;
+        
+    
+    }
+    .azer-bas2{
+        position: absolute;
+        width: 386.3px;
+        height: 53.86px;
+        left: 70.08px;
+        top: 1463.55px;
+        
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 101.38%;
+        
+        color: #000000;
+        
+        
+    }
+    .azer-list{
+        position: absolute;
+        width: 383.41px;
+        height: 216.61px;
+        left: 44px;
+        top: 1529.57px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 150%; 
+        
+        color: #000000;
+        
+        
+    }
+
+
+
 
 
 
@@ -383,4 +679,171 @@ h1 {
     
    
     
+    .azer-bas1{
+        position: absolute;
+        width: 310.8px;
+        height: 43.34px;
+        left: 36px;
+        top: 1308px;
+        
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 101.38%;
+        
+        
+        color: #000000;
+        
+        
+    }
+    .azer-bmetn1{
+        position: absolute;
+        width: 69.9px;
+        height: 18.17px;
+        left: 35px;
+        top: 1368px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 130%;
+        
+        
+        color: #1E4681;
+        
+        
+    
+    }
+    .azer-pmetn1{
+        position: absolute;
+        width: 180px;
+        height: 48px;
+        left: 35px;
+        top: 1387px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 130%;
+        
+        
+        color: #000000;
+        
+
+
+color: #000000;
+    }
+    .azer-bmetn2{
+        position: absolute;
+        width: 99.72px;
+        height: 18.17px;
+        left: 35.38px;
+        top: 1445px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 130%;
+        
+        
+        color: #1E4681;
+        
+        
+    
+    }
+    .azer-pmetn2{
+        position: absolute;
+        width: 165px;
+        height: 51px;
+        left: 35px;
+        top: 1464px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 130%;
+        
+        
+        color: #000000;
+        
+
+    
+    }
+    .azer-bmetn3{
+        position: absolute;
+        width: 69.9px;
+        height: 18.17px;
+        left: 36px;
+        top: 1534px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 130%;
+        
+        color: #1E4681;
+        
+        
+    
+    }
+    .azer-pmetn3{
+        position: absolute;
+        width: 159px;
+        height: 31px;
+        left: 36px;
+        top: 1553px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 130%;
+        
+        color: #000000;
+        
+    
+    }
+    .azer-bas2{
+        position: absolute;
+        width: 310.8px;
+        height: 43.34px;
+        left: 36px;
+        top: 1657px;
+        
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 101.38%;
+        
+        color: #000000;
+        
+        
+        
+    }
+    
+    .azer-list{
+        position: absolute;
+        width: 299px;
+        height: 174px;
+        left: 10px;
+        top: 1710px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 150%;
+        
+        color: #000000;
+        
+        
+        
+    }
 }
