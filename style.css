@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-/*DESKTOP*/
+
 .container {
     width: 1440px;
     height: 6585px;
@@ -9,13 +9,267 @@
     box-sizing: border-box;
 }
 
+.samed-container {
+position: absolute;
+width: 1440px;
+height: 780px;
+left: -1px;
+top: 5405px;
+
+background: #9DC9C8;
+}
+
+.samed-main {
+    position: absolute;
+    width: 908px;
+    height: 66px;
+    left: 121px;
+    top: 179px;
+    
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    /* or 56px */
+    margin-bottom: 0;
+    
+    color: #000000;
+}
+
+.samed-bir {
+    position: absolute;
+    width: 170px;
+    height: 32px;
+    left: 121px;
+    top:  345px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+    /* or 25px */
+    
+    
+    color: #000000;
+}
+
+.samed-iki {
+position: absolute;
+width: 481px;
+height: 181px;
+left: 121px;
+top: 329px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 101.38%;
+/* or 81px */
+color: #000000;
+}
+
+.samed-second {
+position: absolute;
+width: 294px;
+height: 32px;
+left: 121px;
+top: 504px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 101.38%;
+/* or 25px */
+
+color: #000000;
+}
+
+.samed-uc {
+position: absolute;
+width: 294px;
+height: 70px;
+left: 121px;
+top: 545px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 101.38%;
+/* or 18px */
+
+color: #000000;
+}
+
+.samed-third {
+position: absolute;
+width: 322px;
+height: 32px;
+left: 485px;
+top: 504px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 101.38%;
+/* or 25px */
+
+color: #000000;
+
+}
+
+.samed-dord {
+position: absolute;
+width: 294px;
+height: 70px;
+left: 485px;
+top: 545px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 101.38%;
+/* or 18px */
+
+
+color: #000000;
+}
+
+
+.samed-container2 {
+position: absolute;
+width: 1440px;
+height: 390px;
+left: -1px;
+top: 780px;
+
+background: #000000;
+}
+
+.first-photo-samed {
+position: absolute;
+width: 115px;
+height: 68px;
+left: 121px;
+top: 50px;
+}
+
+.instap {
+position: absolute;
+width: 33px;
+height: 33px;
+left: 121px;
+top: 148px;
+}
+
+.fbp {
+position: absolute;
+width: 32px;
+height: 32px;
+left: 172px;
+top: 148px;
+}
+
+.wkp {
+position: absolute;
+width: 35px;
+height: 35px;
+left: 225px;
+top: 148px;
+}
+
+.wpp {
+position: absolute;
+width: 34px;
+height: 34px;
+left: 285px;
+top: 148px;
+}
+
+.rtext {
+position: absolute;
+width: 230px;
+height: 40px;
+left: 121px;
+top: 327px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 101.38%;
+/* or 18px */
+
+color: #FFFFFF;
+}
+
+.phonep {
+position: absolute;
+width: 27px;
+height: 27px;
+left: 975px;
+top: 54px;
+}
+
+.call {
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    left: 1024px;
+    top: 29px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+    /* or 25px */
+    
+    
+    color: #FFFFFF;
+}
+
+.mailp {
+position: absolute;
+width: 27px;
+height: 18px;
+left: 975px;
+top: 106px;
+
+}
+
+.mailtext {
+position: absolute;
+width: 269px;
+height: 40px;
+left: 1024px;
+top: 75px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 101.38%;
+/* or 25px */
+
+
+color: #FFFFFF;
+}
 
 
 
 
 
+                     /*TABLET*/
 
-/*Tablet*/
+
+
 
 @media (min-width: 992px) and (max-width: 1279px) {
     .container {
@@ -25,16 +279,260 @@
         margin: 0 auto;
     }
 
+    .samed-container {
+        position: absolute;
+        width: 834px;
+        height: 451.75px;
+        left: 0px;
+        top: 3122.75px;
+        background: #9DC9C8;
+    }
+
+    .samed-main {
+        position: absolute;
+width: 525.88px;
+height: 38.23px;
+left: 70.66px;
+top: 103.67px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 101.38%;
+/* or 32px */
+color: #000000;
+    }
+
+    .samed-bir {
+        position: absolute;
+width: 98.46px;
+height: 18.53px;
+left: 70.66px;
+top: 173.17px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 101.38%;
+/* or 14px */
+color: #000000;
+    }
+
+    .samed-iki {
+        position: absolute;
+width: 278.58px;
+height: 104.83px;
+left: 70.66px;
+top: 190.55px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 46px;
+line-height: 101.38%;
+/* or 47px */
+
+
+color: #000000;
+    }
+
+.samed-second {
+    position: absolute;
+width: 170.28px;
+height: 18.53px;
+left: 70.66px;
+top: 280.32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 101.38%;
+/* or 14px */
+
+
+color: #000000;
+}
+
+.samed-uc {
+position: absolute;
+width: 170.28px;
+height: 40.54px;
+left: 70.66px;
+top: 304.06px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 101.38%;
+/* or 10px */
+
+
+color: #000000;
+}
+
+.samed-third {
+position: absolute;
+width: 186.49px;
+height: 18.53px;
+left: 281.47px;
+top: 280.32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 101.38%;
+/* or 14px */
+
+
+color: #000000;
+}
+
+.samed-dord {
+position: absolute;
+width: 170.28px;
+height: 40.54px;
+left: 281.47px;
+top: 304.06px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 101.38%;
+/* or 10px */
+
+
+color: #000000;
 }
 
 
+.samed-container2 {
+position: absolute;
+width: 834px;
+height: 225.88px;
+left: 0px;
+top: 450.5px;
+
+background: #000000;
+}
+
+.first-photo-samed {
+position: absolute;
+width: 66.6px;
+height: 39.38px;
+left: 70.66px;
+top: 28.96px;
+}
+
+.instap {
+position: absolute;
+width: 19.11px;
+height: 19.11px;
+left: 70.66px;
+top: 85.72px;
+}
+
+.fbp {
+position: absolute;
+width: 18.53px;
+height: 18.53px;
+left: 100.2px;
+top: 85.72px;
+}
+
+.wkp {
+position: absolute;
+width: 20.27px;
+height: 20.27px;
+left: 130.89px;
+top: 84.56px;
+}
+
+.wpp {
+position: absolute;
+width: 19.69px;
+height: 19.69px;
+left: 165.64px;
+top: 85.14px;
+}
+
+.rtext {
+position: absolute;
+width: 133.21px;
+height: 23.17px;
+left: 70.66px;
+top: 189.39px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 101.38%;
+/* or 10px */
 
 
+color: #FFFFFF;
+}
+
+.phonep {
+position: absolute;
+width: 15.64px;
+height: 15.64px;
+left: 565.27px;
+top: 31.28px;
+}
+
+.call {
+position: absolute;
+width: 133.21px;
+height: 23.17px;
+left: 593.65px;
+top: 34.17px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 101.38%;
+/* or 14px */
 
 
+color: #FFFFFF;
+}
+
+.mailp {
+position: absolute;
+width: 15.64px;
+height: 10.43px;
+left: 565.27px;
+top: 61.39px;
+}
+
+.mailtext {
+position: absolute;
+width: 155.8px;
+height: 23.17px;
+left: 593.65px;
+top: 59.07px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 101.38%;
+/* or 14px */
+
+color: #FFFFFF;
+}
+}
 
 
-/*Mobile*/
+                     /*Mobile*/
 
 @media (min-width: 320px) and (max-width: 991px) {
     .container {
@@ -43,4 +541,254 @@
         box-sizing: border-box;
         margin: 0 auto;
     }
+
+.samed-container {
+position: absolute;
+width: 671px;
+height: 363.46px;
+left: -23px;
+top: 3910px;
+
+background: #9DC9C8;
+}
+
+.samed-main {
+position: absolute;
+width: 224px;
+height: 63px;
+left: 34px;
+top: 62px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 101.38%;
+/* or 26px */
+
+
+color: #000000;
+}
+
+.samed-bir {
+position: absolute;
+width: 79.22px;
+height: 14.91px;
+left: 33.85px;
+top: 147.33px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 101.38%;
+/* or 12px */
+
+color: #000000;
+}
+
+.samed-iki {
+position: absolute;
+width: 224.13px;
+height: 84.34px;
+left: 33.85px;
+top: 161.3px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 37px;
+line-height: 101.38%;
+/* or 38px */
+
+
+color: #000000;
+}
+
+.samed-second {
+position: absolute;
+width: 137px;
+height: 14.91px;
+left: 34.85px;
+top: 233.53px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 101.38%;
+/* or 12px */
+
+color: #000000;
+}
+
+.samed-uc {
+position: absolute;
+width: 138px;
+height: 47px;
+left: 34px;
+top: 253px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 101.38%;
+/* or 10px */
+
+color: #000000;
+}
+
+.samed-third {
+    position: absolute;
+    width: 151px;
+    height: 14px;
+    left: 203px;
+    top: 234px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 101.38%;
+    /* or 12px */
+    
+    
+    color: #000000;
+}
+
+.samed-dord {
+position: absolute;
+width: 140px;
+height: 38px;
+left: 203px;
+top: 253px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 101.38%;
+/* or 10px */
+
+color: #000000;
+}
+
+
+.samed-container2 {
+position: absolute;
+width: 394px;
+height: 251px;
+left: -19px;
+top: 4273px;
+
+background: #000000;
+}
+
+.first-photo-samed {
+position: absolute;
+width: 53.59px;
+height: 31.69px;
+left: 37.85px;
+top: 23.3px;
+}
+
+.instap {
+position: absolute;
+width: 15.38px;
+height: 15.38px;
+left: 37.85px;
+top: 68.96px;
+}
+
+.fbp {
+position: absolute;
+width: 14.91px;
+height: 14.91px;
+left: 61.61px;
+top: 68.96px;
+}
+
+.wkp {
+position: absolute;
+width: 16.31px;
+height: 16.31px;
+left: 86.31px;
+top:68.03px;
+}
+
+.wpp {
+position: absolute;
+width: 15.84px;
+height: 15.84px;
+left: 114.27px;
+top: 68.5px;
+}
+
+.rtext {
+position: absolute;
+width: 141px;
+height: 19px;
+left: 38px;
+top: 222px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 101.38%;
+/* or 10px */
+
+color: #FFFFFF;
+}
+
+.phonep {
+position: absolute;
+width: 12.58px;
+height: 12.58px;
+left: 38px;
+top: 132px;
+}
+
+.call {
+position: absolute;
+width: 107.17px;
+height: 18.64px;
+left: 60.83px;
+top: 134.33px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 101.38%;
+/* or 12px */
+
+color: #FFFFFF;
+}
+
+.mailp {
+position: absolute;
+width: 12.58px;
+height: 8.39px;
+left: 38px;
+top: 156.23px;
+}
+
+.mailtext {
+position: absolute;
+width: 125.35px;
+height: 18.64px;
+left: 60.83px;
+top: 154.37px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 101.38%;
+/* or 12px */
+
+color: #FFFFFF;
+}
 }
