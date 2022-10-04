@@ -543,13 +543,13 @@ color: #FFFFFF;
     }
 
 .samed-container {
-position: absolute;
-width: 671px;
-height: 363.46px;
-left: -23px;
-top: 3910px;
-
-background: #9DC9C8;
+    position: absolute;
+    width: 376px;
+height: 363px;
+    left: 0px;
+    top: 3927px;
+    
+    background: #9DC9C8;
 }
 
 .samed-main {
@@ -677,10 +677,10 @@ color: #000000;
 
 .samed-container2 {
 position: absolute;
-width: 394px;
+width: 375px;
 height: 251px;
-left: -19px;
-top: 4273px;
+left: 0px;
+top: 363px;
 
 background: #000000;
 }
